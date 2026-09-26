@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/galaxy-banner.gif" width="100%" alt="Anh Duy — hành trình du hành giữa ngân hà, với sao chuyển động, hành tinh và tàu vũ trụ." />
+  <a href="https://nguyenvoanhduy.github.io/">
+    <img src="./assets/galaxy-banner.gif" width="100%" alt="Anh Duy — mở portfolio galaxy tương tác với chữ động và hiệu ứng du hành." />
+  </a>
 </p>
 
 <p align="center">
@@ -8,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://nguyenvoanhduy.github.io/">Portfolio galaxy ↗</a> ·
   <a href="#-trạm-công-nghệ">Công nghệ</a> ·
   <a href="#-những-chuyến-bay">Dự án</a> ·
   <a href="https://github.com/nguyenvoanhduy?tab=repositories">Khám phá các repo</a>
